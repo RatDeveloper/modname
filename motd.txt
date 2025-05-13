@@ -1,2 +1,2 @@
 <color=red>MainKey</color>
-Thanks for using a Mainkey 
+Thanks for using a Mainkey !
