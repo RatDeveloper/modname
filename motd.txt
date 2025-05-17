@@ -1,2 +1,3 @@
-    <color=red>MainKey</color>
-<color=magmeta>thank for using MainKey</color>
+                <color=red>MainKey</color>
+<color=yellow>Thanks for using MainKey</color>
+<color=yellow>Pls buyng the Menu</color>
