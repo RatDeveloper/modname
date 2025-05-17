@@ -1,2 +1,2 @@
-<color=red>MainKey</color>
-Thanks for using a Mainkey !!
+    <color=red>MainKey</color>
+<color=magmeta>thank for using MainKey</color>
